@@ -1,6 +1,5 @@
-# Curacel-tasks
+# General Instructions
 
-General 
   a) Run the accidented_car_model.ipynb to see the model building process
       Notebook Instructions
           kindly change all directories to conform with the codebase in this notebook

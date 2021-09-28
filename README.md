@@ -14,7 +14,7 @@ General
             Non_Accidented car = n_car
 
 
-b) when you get model.pth output from a bove, copy it into the folder here -> Curacel-tasks/car_detection_api/ml_model/ 
+b) when you get model.pth output from above, copy it into the folder here -> Curacel-tasks/car_detection_api/ml_model/ 
 c) Use the inference api at https://github.com/Engrgit/Curacel-tasks/tree/main/car_detection_api for testing  
 c) Test the Flask API by installing all the requirements  
 d) Run the car detector API by installing dependencies in requirements.txt

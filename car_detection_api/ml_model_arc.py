@@ -3,14 +3,9 @@
 import numpy as numpy
 import pandas as pd
 import matplotlib.pyplot as pyplot
-# from helper import specificity
-# from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score, auc
 from IPython.display import clear_output
-# from pytorch_lightning.metrics.functional.classification import f1_score, precision
 from torchvision.transforms import transforms
 from torchvision import datasets
-from torchvision.datasets import MNIST
-# from torchsummary import summary
 from pytorch_lightning import Trainer
 from torch.nn import functional as F
 from torch import nn
@@ -19,11 +14,8 @@ from collections import OrderedDict
 from torch.utils.data import DataLoader
 from torch.optim import SGD,RMSprop
 from torchvision import models
-# import pytorch_lightning.metrics.functional as plm
 import pytorch_lightning.metrics.functional as plm
 from torchmetrics import Accuracy, F1
-# import pytorch_lightning.metrics.functional as FM
-# from pytorch_lightning.metrics.functional import f1_score, accuracy, recall, precision
 import pytorch_lightning as pl
 import torchvision as tv
 import torch as tch

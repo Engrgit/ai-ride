@@ -4,7 +4,6 @@
   
       Notebook Instructions
           1) kindly change all directories to conform with the codebase in this notebook
-
             data_dir = "/content/drive/My Drive/Curacel_ai_engine/car_data"
             train_dir = "/content/drive/My Drive/Curacel_ai_engine/car_data/train"
             val_dir = "/content/drive/My Drive/Curacel_ai_engine/car_data/val"

@@ -17,8 +17,6 @@ b) when you get model.pth output from above, copy it into the folder here -> Cur
 
 c) Use the inference api at https://github.com/Engrgit/Curacel-tasks/tree/main/car_detection_api for testing  
 
-c) Test the Flask API by installing all the requirements  
-
 d) Run the car detector API by installing dependencies in requirements.txt
 
 e) Run app.py to load the Flask web API

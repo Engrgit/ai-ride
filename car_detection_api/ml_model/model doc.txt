@@ -1,1 +1,1 @@
-this file needs something to commit
+The model is a .pth file that we use in performing inferencing

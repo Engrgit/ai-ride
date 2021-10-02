@@ -3,12 +3,15 @@
   a) Run the accidented_car_model.ipynb to see the model building process
   
       Notebook Instructions
-          1) kindly change all directories to conform with the codebase in this notebook
+          1) Here is the link to the cleaned and preprocessed datasets used in building the model
+                  https://drive.google.com/drive/folders/1N1b10zolyK65KwMK_1yktn5zlYgr9DI8?usp=sharing
+          
+          2) kindly change all directories to conform with the codebase in this notebook
             data_dir = "/content/drive/My Drive/Curacel_ai_engine/car_data"
             train_dir = "/content/drive/My Drive/Curacel_ai_engine/car_data/train"
             val_dir = "/content/drive/My Drive/Curacel_ai_engine/car_data/val"
 
-         2) Remember:
+         3) Remember:
             Accidented car = a_car
             Non_Accidented car = n_car
 

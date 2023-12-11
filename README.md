@@ -27,6 +27,3 @@ e) Run app.py to load the Flask web API
 f) Have a lovely day and enjoy tesing the model.
 
 
-Cheers
-
-Ibrahim
